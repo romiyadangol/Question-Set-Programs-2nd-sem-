@@ -1,4 +1,4 @@
-//calculate and return area of circle and rectangle
+//calculate and return area of circle and rectangle using function overloading
 #include<iostream>
 using namespace std;
 
