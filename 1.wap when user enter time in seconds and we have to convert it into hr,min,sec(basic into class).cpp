@@ -1,4 +1,4 @@
-1.wap when user enter time in seconds and we have to convert it into hr,min,sec(basic into class)
+//wap when user enter time in seconds and we have to convert it into hr,min,sec(basic into class)
 #include<iostream>
 using namespace std;
 class Time
