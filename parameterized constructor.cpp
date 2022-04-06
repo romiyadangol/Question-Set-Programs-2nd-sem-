@@ -1,5 +1,5 @@
 //parameterized constructor example
-//calculate area of a wall
+/*calculate area of a wall*/
 #include<iostream>
 using namespace std;
 class Wall
