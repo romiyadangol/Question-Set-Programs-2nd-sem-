@@ -1,4 +1,4 @@
-//class to class(operater overloading)
+//class to class(operator overloading)
 
 #include<iostream>
 using namespace std;
