@@ -15,7 +15,7 @@ class Rectangle
 		{
 			cout<<"\nWidth: "<<width;
 			cout<<"\nLength: "<<length;
-			cout<<"Area of Rectangle: "<<area;
+			cout<<"\nArea of Rectangle: "<<area;
 		}
 };
 class Triangle
@@ -33,7 +33,7 @@ class Triangle
 		{
 			cout<<"\nBase: "<<base;
 			cout<<"\nHeight: "<<height;
-			cout<<"Area of Triangle: "<<area;
+			cout<<"\nArea of Triangle: "<<area;
 		}
 		operator Rectangle()
 		{

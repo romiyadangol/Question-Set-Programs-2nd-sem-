@@ -29,6 +29,5 @@ int main()
 	Y obj1;
 	obj1.setvalue(10);
 	obj1.print();
-	obj1.output();
 	return 0;
 }
