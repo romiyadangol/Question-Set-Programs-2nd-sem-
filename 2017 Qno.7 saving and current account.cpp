@@ -65,7 +65,7 @@ class current:public Account
 			float simple_interest()
 			{
 				float rate2;
-				rate2 = 0.05;
+				rate2 = 5;
 				SI=(p2*t2*rate2)/100;
 				return SI;
 			}
